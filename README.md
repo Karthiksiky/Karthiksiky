@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthiksiky
+- 👋 Hi, I’m Karthik
 - 👀 I’m interested in cyber security
 - 🌱 I’m persuing Electronics and Communication Engineering
 
